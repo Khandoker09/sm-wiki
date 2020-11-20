@@ -9,8 +9,8 @@ collections:
     permalink: /:path/
 
 # Title
-name: DOCter
-subtitle: A Jekyll template for project documentation
+name: SMO-WIKI!
+subtitle: Social Media Observetory Documentations
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
