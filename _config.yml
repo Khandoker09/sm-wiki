@@ -40,24 +40,24 @@ navigation:
  -text: SMO
   url: https://leibniz-hbi.github.io/SMO/
   internal: false
-- text: Data Collection Tools
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Data-Collection-Tools
-  internal: false
-- text: Analysis Tools
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Analysis-Tools
-  internal: false
-- text: tutorials
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Tutorials
-  internal: false
-- text: Ethics/Legal
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-  internal: false
-- text: Knowledge Base and Case Studies
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-  internal: false
-- text: Datasets
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-  internal: false
+# - text: Data Collection Tools
+#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Data-Collection-Tools
+#   internal: false
+# - text: Analysis Tools
+#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Analysis-Tools
+#   internal: false
+# - text: tutorials
+#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Tutorials
+#   internal: false
+# - text: Ethics/Legal
+#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
+#   internal: false
+# - text: Knowledge Base and Case Studies
+#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
+#   internal: false
+# - text: Datasets
+#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
+#   internal: false
 # Repo list
 # List repos that you would like to appear on the homepage here
 #repos:
