@@ -31,22 +31,33 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
-  url: ./
-  internal: true
-- text: Example Page
-  url: example_page/
-  internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
+ -text: Home
+  url: https://leibniz-hbi.github.io/SMO/
   internal: false
-
+- text: Data Collection Tools
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Data-Collection-Tools
+  internal: false
+- text: Analysis Tools
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Analysis-Tools
+  internal: false
+- text: tutorials
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Tutorials
+  internal: false
+- text: Ethics/Legal
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
+  internal: false
+- text: Knowledge Base and Case Studies
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
+  internal: false
+- text: Datasets
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
+  internal: false
 # Repo list
 # List repos that you would like to appear on the homepage here
-repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+#repos:
+# - name: DOCter
+#   description: Jekyll template for docs
+#   url: https://github.com/cfpb/DOCter
 
 # Style Variables
 brand_color: "#2cb34a"
