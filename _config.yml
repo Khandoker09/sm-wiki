@@ -31,27 +31,33 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
- -text: Home
+- text: Home
+  url: ./
+  internal: true
+- text: Example Page
+  url: example_page/
+  internal: true
+ -text: SMO
   url: https://leibniz-hbi.github.io/SMO/
-  internal: True
+  internal: false
 - text: Data Collection Tools
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Data-Collection-Tools
-  internal: True
+  internal: false
 - text: Analysis Tools
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Analysis-Tools
-  internal: True
+  internal: false
 - text: tutorials
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Tutorials
-  internal: True
+  internal: false
 - text: Ethics/Legal
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-  internal: True
+  internal: false
 - text: Knowledge Base and Case Studies
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-  internal: True
+  internal: false
 - text: Datasets
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-  internal: True
+  internal: false
 # Repo list
 # List repos that you would like to appear on the homepage here
 #repos:
