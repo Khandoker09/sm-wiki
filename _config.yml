@@ -9,8 +9,8 @@ collections:
     permalink: /:path/
 
 # Title
-name: SMO-WIKI!
-subtitle: Social Media Observetory Documentations
+name: DOCter
+subtitle: A Jekyll template for project documentation
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -37,30 +37,16 @@ navigation:
 - text: Example Page
   url: example_page/
   internal: true
- -text: SMO
-  url: https://leibniz-hbi.github.io/SMO/
+- text: DOCter Repo
+  url: https://github.com/cfpb/DOCter
   internal: false
-# - text: Data Collection Tools
-#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Data-Collection-Tools
-#   internal: false
-# - text: Analysis Tools
-#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Analysis-Tools
-#   internal: false
-# - text: tutorials
-#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Tutorials
-#   internal: false
-# - text: Ethics/Legal
-#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-#   internal: false
-# - text: Knowledge Base and Case Studies
-#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-#   internal: false
-# - text: Datasets
-#   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
-#   internal: false
+- text: Data collection Tools
+  url: https://github.com/cfpb/DOCter
+  internal: false
+
 # Repo list
 # List repos that you would like to appear on the homepage here
-#repos:
+# repos:
 # - name: DOCter
 #   description: Jekyll template for docs
 #   url: https://github.com/cfpb/DOCter
