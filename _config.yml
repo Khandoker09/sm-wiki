@@ -34,7 +34,7 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Example Page
+- text: Data Collection Tools
   url: example_page/
   internal: true
 - text: DOCter Repo
