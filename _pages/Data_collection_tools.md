@@ -3,7 +3,7 @@ layout: page
 title:  "Data Collection Tools"
 ---
 
-![data tools](https://drive.google.com/file/d/1y-99Ibob3skqhTTpsJGn8MPlVLyVHe9z/view?usp=sharing)
+![data tools](/image/datatools.jpg)
 
 #Data Collection Tool list
 
