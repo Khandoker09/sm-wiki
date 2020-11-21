@@ -3,6 +3,7 @@ layout: page
 title:  "Tutorials"
 ---
 
+![tuitorial](https://exscudo.com/blog/wp-content/uploads/2017/10/sitemap_tutorial_2.jpg)
 # Tutorials
 
 In this section we provide you with useful tutorials to collect data from a number of websites and platforms. 
