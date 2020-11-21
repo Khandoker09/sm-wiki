@@ -3,7 +3,7 @@ layout: page
 title:  "Datasets"
 ---
 
-![datasets](/image/datasets.jpg)
+![datasets](image/datasets.jpg)
 
 # Datasets
 Over the course of the build up of the SMO we present a growing collection of useful (social) media datasets. These will comprise Open Access Datasets and Access on Request Datasets, both collected by ourselves as well as collections by other projects.
