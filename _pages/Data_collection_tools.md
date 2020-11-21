@@ -3,7 +3,7 @@ layout: page
 title:  "Data Collection Tools"
 ---
 
-![data tools](/image/datatools.jpg)
+![data tools]( sm-wiki/image/datatools.jpg)
 
 #Data Collection Tool list
 
