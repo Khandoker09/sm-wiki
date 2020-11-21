@@ -41,8 +41,8 @@ navigation:
   url: Analysis_tools/
   internal: True
 - text: Tuitorials
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Tutorials
-  internal: false
+  url: tutorials/
+  internal: True
 - text: Ethics/Legal
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
   internal: false
