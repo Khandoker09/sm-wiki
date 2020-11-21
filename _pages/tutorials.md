@@ -3,7 +3,7 @@ layout: page
 title:  "Tutorials"
 ---
 
-![tuitorial](/image/tutorial.jpg)
+![tuitorial](image/tutorial.jpg)
 # Tutorials
 
 In this section we provide you with useful tutorials to collect data from a number of websites and platforms. 
