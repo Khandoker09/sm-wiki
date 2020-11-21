@@ -37,15 +37,9 @@ navigation:
 - text: Data Collection Tools
   url: Data_collection_tools/
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
-  internal: false
-- text: Data collection Tools
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Data-Collection-Tools
-  internal: false
 - text: Analysis Tools
-  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Analysis-Tools
-  internal: false
+  url: Analysis_tools/
+  internal: True
 - text: Tuitorials
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Tutorials
   internal: false
