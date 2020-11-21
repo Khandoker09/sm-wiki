@@ -41,9 +41,23 @@ navigation:
   url: https://github.com/cfpb/DOCter
   internal: false
 - text: Data collection Tools
-  url: https://github.com/cfpb/DOCter
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Data-Collection-Tools
   internal: false
-
+- text: Analysis Tools
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Analysis-Tools
+  internal: false
+- text: Tuitorials
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Tutorials
+  internal: false
+- text: Ethics/Legal
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal
+  internal: false
+- text: Knowledge Base & Case Studites
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Knowledge-Base-%26amp%3B-Case-Studies
+  internal: false
+- text: Datasets
+  url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Datasets
+  internal: false
 # Repo list
 # List repos that you would like to appear on the homepage here
 # repos:
