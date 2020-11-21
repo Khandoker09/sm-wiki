@@ -1,4 +1,4 @@
-![image](https://yoorgroup.com/wp-content/uploads/2020/10/Content-writing-michigan.png)
+![image](/image/intro.png)
 # Welcome to the Social-Media-Observatory wiki!
 
 This wiki is the central knowledge and documentation base of the SMO. 
