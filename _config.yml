@@ -21,7 +21,7 @@ baseurl: '/sm-wiki'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Powered by [Leibniz-HBI](https://leibniz-hbi.de/en)
+  name: Leibniz-HBI
   url: http://localhost:4000
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
