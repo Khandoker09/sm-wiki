@@ -17,11 +17,11 @@ subtitle: Social Media Observetory documentation
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/DOCter'
+baseurl: '/sm-wiki'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Name
+  name: Powered by [Leibniz-HBI](https://leibniz-hbi.de/en)
   url: http://localhost:4000
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
