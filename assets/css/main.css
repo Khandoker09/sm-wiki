@@ -54,7 +54,7 @@ strong {
     font-size: 1.625em;
     font-family: "Avenir Next", Arial, sans-serif;
     font-weight: normal;
-    color: #919395;
+    color: #0000FF;
     margin: 0;
     line-height: 1.2941176470588236;
     display: inline-block;
@@ -74,6 +74,7 @@ h4 {
 
 .page-title {
     margin-top: .727272727em; /* 16/22 */
+    border-color: blue;
 }
 
 /*
