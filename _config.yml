@@ -35,7 +35,7 @@ navigation:
   url: ./
   internal: true
 - text: Data Collection Tools
-  url: example_page/
+  url: Data_collection_tools/
   internal: true
 - text: DOCter Repo
   url: https://github.com/cfpb/DOCter
