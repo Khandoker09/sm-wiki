@@ -3,7 +3,7 @@ layout: page
 title:  "Tutorials"
 ---
 
-<img src="image/tutorial.jpg" alt="tutorials" width="400" height="780"/>
+![tutorial](/sm-wiki/image/tutorial.jpg)
 # Tutorials
 
 In this section we provide you with useful tutorials to collect data from a number of websites and platforms. 
