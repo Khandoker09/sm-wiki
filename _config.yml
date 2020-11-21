@@ -50,7 +50,7 @@ navigation:
   url: https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Knowledge-Base-%26amp%3B-Case-Studies
   internal: false
 - text: Datasets
-  url: Datasets/
+  url: datasets/
   internal: True
 # Repo list
 # List repos that you would like to appear on the homepage here
