@@ -3,7 +3,7 @@ layout: page
 title:  "Tutorials"
 ---
 
-![tuitorial](image/tutorial.jpg)
+![tuitorial](https://exscudo.com/blog/exscudo/eon-testnet-video-tutorial-part-2/=780x400)
 # Tutorials
 
 In this section we provide you with useful tutorials to collect data from a number of websites and platforms. 
