@@ -74,7 +74,6 @@ h4 {
 
 .page-title {
     margin-top: .727272727em; /* 16/22 */
-    border-color: blue;
 }
 
 /*
@@ -271,7 +270,7 @@ Footer
 footer {
     display: table-row; /* for sticky footer */
     height: 1px; /* for sticky footer */
-    border-top: 2px solid #babbbd;
+    border-top: 2px solid #32a1ce;
     background: #f1f2f2;
     width: 100%;
     font-size: 0.875em;
