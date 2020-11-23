@@ -434,7 +434,7 @@ Desktop Styles
     .logo {
         max-width: 30%;
         padding-right: 20px;
-        float: none;
+        float: middle;
     }
 
     aside {
