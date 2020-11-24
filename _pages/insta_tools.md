@@ -7,13 +7,23 @@ title:  "Instagram Tools"
 
 
 Welcome to the Instagram Tools.
-This list provides an overview of useful tools that can be used for research on Instagram. If you face problems or issues with one of the applications on the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues). It helps us to maintain this list.
+This list provides an overview of useful tools that can be used for research on Instagram. 
+If you face problems or issues with one of the applications on the list, feel free to post an 
+[Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues). It helps us to maintain 
+this list.
 
 ## Overview
 
-All of the following tools have the ability to search for a certain username, hashtag, location or post and collect associated data from Instagram. All tools download the associated media (i.e. pictures and videos), comments and related hashtags. The list below is sorted in an opinionated way in the order of what we would recommend first.
+All of the following tools have the ability to search for a certain username, hashtag, location or
+post and collect associated data from Instagram. All tools download the associated media (i.e. pictures and videos),
+comments and related hashtags. The list below is sorted in an opinionated way in the order of what we would 
+recommend first.
 
-Most of these Instagram tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the [Terms of Use](https://help.instagram.com/581066165581870) of Instagram. Despite being public, Instagram data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research **before** starting your data collection.
+Most of these Instagram tools are so called scrapers that work without an official API Key.
+Please be aware that the use of these tools might violate the [Terms of Use](https://help.instagram.com/581066165581870) 
+of Instagram. Despite being public, Instagram data can be very personal. Ensure to inform 
+yourself thoroughly in order to follow data protection laws and other ethical guidelines 
+that apply to your research **before** starting your data collection.
 
 ### Useful Scrapers
 ![Overview](https://abload.de/img/bildschirmfoto2020-02hljxy.png)
@@ -29,7 +39,8 @@ Most of these Instagram tools are so called scrapers that work without an offici
 * _Followers/Followings_: Allows you to download a list of all followers/followings from one or more accounts. 
 * _Login Module_: The scraper can log you into an account. 
 * _Posts_ and _Hashtags_: In general the function to scrape posts and seek posts for a certain hashtag. 
-* _MetaData_: Includes all data other than the actual posts, user-info, media or followers. This includes location and user-ID, which is crucial to maintain a database.
+* _MetaData_: Includes all data other than the actual posts, user-info, media or followers. 
+   This includes location and user-ID, which is crucial to maintain a database.
 
 
 ## Description
@@ -52,7 +63,8 @@ Most of these Instagram tools are so called scrapers that work without an offici
 
 ### [2. Instaloader](https://instaloader.github.io/)<br>
 
-> Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram.
+> Instaloader is a tool to download pictures (or videos) along with their captions and 
+  other metadata from Instagram.
 
 **Notable Features:**
 
@@ -72,7 +84,8 @@ instagram photos and videos. Use responsibly.
 
 **Notable Features:**
 
-* Simple Media Scraper. You can scrape media by searching a hashtag, location or username. It will download the metadata alongside. 
+* Simple Media Scraper. You can scrape media by searching a hashtag, location or username. 
+  It will download the metadata alongside. 
 
 **Installation via:** pip 
 
@@ -80,7 +93,9 @@ instagram photos and videos. Use responsibly.
 
 ### [4. Instaphyte](https://github.com/ScriptSmith/instaphyte)
 
-> Fast and simple Instagram hashtag scraper. Instaphyte was developed as a fast and simple alternative to the Instamancer (same developer). Instaphyte can be used for exploratory analysis of hashtags and locations. For a more powerful scraper [Instamancer](https://adamsm.com/instamancer/) is recommended.
+> Fast and simple Instagram hashtag scraper. Instaphyte was developed as a fast and simple alternative
+  to the Instamancer (same developer). Instaphyte can be used for exploratory analysis of hashtags and 
+  locations. For a more powerful scraper [Instamancer](https://adamsm.com/instamancer/) is recommended.
 
 **Known Issues and Limitations**
 * You can only search by hashtag and location.
@@ -92,7 +107,8 @@ instagram photos and videos. Use responsibly.
 
 ### [5. Instalooter](https://github.com/althonos/InstaLooter)
 
-> InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access. It can be seen as a re-implementation of the now deprecated InstaRaider developed by @akurtovic.
+> InstaLooter is a program that can download any picture or video associated from an Instagram profile, without 
+  any API access. It can be seen as a re-implementation of the now deprecated InstaRaider developed by @akurtovic.
 
 [Documentation and Usage](https://instalooter.readthedocs.io/en/latest/usage.html)<br>
 [Download and Installation Instructions](https://github.com/althonos/InstaLooter)
@@ -101,14 +117,17 @@ instagram photos and videos. Use responsibly.
 
 ### [6. Instagram Private API](https://github.com/ping/instagram_private_api)
 
-> A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode.
+> A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the
+  app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode.
 **Please note, that this application needs a API-Key from Instagram. This is not easy to accomplish. If you have one, this tool is very powerful.**
 
 **Known Issues and Limitations:**
-* The Instagram Private API only functions with [Business API access to Instagram](https://www.instagram.com/developer/), that is unlikely to be granted to academic researchers. 
+* The Instagram Private API only functions with [Business API access to Instagram](https://www.instagram.com/developer/), 
+  that is unlikely to be granted to academic researchers. 
 
 **Notable Features:**
-* If you have a API Key from Instagram, you have only few restrictions regarding what and how much you can scrape. You can check the requirements and how to request one on the [Instagram developers page](https://www.instagram.com/developer/)
+* If you have a API Key from Instagram, you have only few restrictions regarding what and how much you can 
+  scrape. You can check the requirements and how to request one on the [Instagram developers page](https://www.instagram.com/developer/)
 
 **Installation via:** pip
 
