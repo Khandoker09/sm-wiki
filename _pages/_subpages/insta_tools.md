@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Data Collection Tools"
+title:  "Instagram Tools"
 ---
 
 # Instagram Tool List
