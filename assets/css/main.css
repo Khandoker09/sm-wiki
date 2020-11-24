@@ -186,7 +186,7 @@ Navigation
 .sidebar-nav li:active,
 .sidebar-nav .sidebar-nav-active {
   color: #75787b;
-  border-left: 4px solid {{ site.brand_color }};
+  border-left: 4px solid #32a1ce;
   background-color: transparent;
   border-bottom: 1px solid #babbbd;
 }
