@@ -2,20 +2,14 @@
   <p class="intro">{{ site.subtitle }}</p>
   <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
   <nav class="sidebar-nav" role="navigation">
-    <ul
-        {% if link.internal == true %}
-          <a href="https://leibniz-hbi.github.io/SMO/">Landing Page</a>
-          <a href="/sm-wiki/Data_collection_tools/">Data Collection Tools</a>
-          <a href="https://github.com/leibniz-hbi/Social-Media-Observatory/wiki">Wiki</a>
-          <a href="https://leibniz-hbi.github.io/SMO/about/">About</a>
-          <a href="https://github.com/leibniz-hbi/Social-Media-Observatory">Github</a>
-          <a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/issues">Support</a>
-          <a href="https://github.com/leibniz-hbi/Social-Media-Observatory/wiki">Wiki</a>
-          <a href="https://leibniz-hbi.github.io/SMO/about/">About</a>
-        {% else %}
-          <li><a href="{{ link.url }}">{{ link.text }}</a></li>
-        {% endif %}
-
-    </ul>
+  <a href="https://khandoker09.github.io/sm-wiki/">Home</a>
+  <div class="subnav">
+    <button class="subnavbtn">About <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="/sm-wiki/Data_collection_tools/">Data Tools</a>
+      <a href="#team">Team</a>
+      <a href="#careers">Careers</a>
+    </div>
+  </div
   </nav>
 </aside>
