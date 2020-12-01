@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!-- Tokaroot->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <!-- Somehow I got an error, so I comment the title, just uncomment to show -->
+    
+    <link rel="stylesheet" href="assets/css/syntax.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  </head>
+  <body>
+    <div class="btn">
+      <span class="fas fa-bars"></span>
+    </div>
+<nav class="sidebar">
+      <div class="text">
+Side Menu</div>
+<ul>
+  <li class="active"><a href="http://127.0.0.1:4000/SMO-Wiki/">Home</a></li>
+<li class="active"><a href="https://leibniz-hbi.github.io/SMO/">SMO</a></li>
+
+<li>
+          <a href="#" class="feat-btn">Data Collection Tools
+            <span class="fas fa-caret-down first"></span>
+          </a>
+          <ul class="feat-show">
+          <li><a href="{{ site.baseurl }}/insta_tools">Instagram Tools</a></li>
+          <li><a href="{{ site.baseurl }}/twitter_tools">Twitter Tools</a></li>
+          <li><a href="{{ site.baseurl }}/wiki_tools">Wikipedia Tools</a></li>
+          <li><a href="{{ site.baseurl }}/fb_tools">FaceBook Tools</a></li>
+          <li><a href="{{ site.baseurl }}/youtube_tools">Youtube Tools</a></li>
+          <li><a href="{{ site.baseurl }}/General_News_Scrapers">General News Scrapers</a></li>
+          <li><a href="{{ site.baseurl }}/Miscellaneous_tools">Miscellenious Tools</a></li>
+</ul>
+</li>
+<li>
+          <a href="#" class="serv-btn">Tutorial
+            <span class="fas fa-caret-down second"></span>
+          </a>
+          <ul class="serv-show">
+<li><a href="{{ site.baseurl }}/wiki_maintain">How to use and maintain the wiki</a></li>
+<li><a href="{{ site.baseurl }}/General_News_Scrapers">How to set up DMI-TCAT on a virtual machine</a></li>
+<li><a href="{{ site.baseurl }}/Shiny_Tutorial">Shiny tutorial</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Ethics---Legal">Ethics/Legal</a></li>
+<li><a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Knowledge-Base">Knowledge Base</a></li>
+<li><a href="{{ site.baseurl }}/datasets">Datasets</a></li>
+<!--New topic-->
+<li><a href="{{ site.baseurl }}/test">How to use and maintain the wiki</a></li>
+<li><a href="https://leibniz-hbi.github.io/SMO/about/">About</a></li>
+</ul>
+</nav>
+    <div class="content">
+      <div class="header">
+</div>
+
+</div>
+<script>
+    $('.btn').click(function(){
+      $(this).toggleClass("click");
+      $('.sidebar').toggleClass("show");
+    });
+      $('.feat-btn').click(function(){
+        $('nav ul .feat-show').toggleClass("show");
+        $('nav ul .first').toggleClass("rotate");
+      });
+      $('.serv-btn').click(function(){
+        $('nav ul .serv-show').toggleClass("show1");
+        $('nav ul .second').toggleClass("rotate");
+      });
+      $('nav ul li').click(function(){
+        $(this).addClass("active").siblings().removeClass("active");
+      });
+    </script>
+
+  </body>
+</html>
+<!-- <a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a>-->
